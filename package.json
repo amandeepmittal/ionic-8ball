@@ -1,6 +1,6 @@
 {
   "name": "magic-8-ball",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Magic 8 Ball: An Ionic project",
   "dependencies": {
     "gulp": "^3.5.6",
