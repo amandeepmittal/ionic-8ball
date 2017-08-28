@@ -1,4 +1,6 @@
 # Magic 8ball
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/amandeepmittal/ionic-8ball.svg)](https://greenkeeper.io/)
 Using Ionic Framework (v1)
 
 Ionic View link: [https://apps.ionic.io/app/d29ea4f6](https://apps.ionic.io/app/d29ea4f6)
